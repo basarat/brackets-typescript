@@ -1,6 +1,8 @@
 brackets-typescript
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/basarat/brackets-typescript.svg)](https://greenkeeper.io/)
+
 A [Brackets](http://brackets.io/) extension that adds [TypeScript](http://www.typescriptlang.org/) support.
 
 Features:
